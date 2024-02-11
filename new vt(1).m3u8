@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 ,GTV BANGLA
+http://172.16.29.242:8080/show/5008/index.m3u8
+#EXTINF:-1 ,Unknown_2
+http://172.16.29.242:8080/show/4017/index.m3u8
+#EXTINF:-1 ,JAMUNA TV HD
+http://172.16.29.242:8080/show/4005/index.m3u8
+#EXTINF:-1 ,SOMOY TV HD
+http://172.16.29.242:8080/show/4010/index.m3u8
+#EXTINF:-1 ,CHANNEL I HD
+http://172.16.29.242:8080/show/4016/index.m3u8
+#EXTINF:-1 ,INDEPENDENT 
+http://172.16.29.242:8080/show/4008/index.m3u8
+#EXTINF:-1 ,NAGORIK HD
+http://172.16.29.242:8080/show/5007/index.m3u8
+#EXTINF:-1 ,COLORS BANGLA HD
+http://172.16.29.242:8080/show/5047/index.m3u8
+#EXTINF:-1 ,COLORS BANGLA CENEMA 
+http://172.16.29.242:8080/show/5033/index.m3u8
+#EXTINF:-1 ,ENTERR BANGLA 10
+http://172.16.29.242:8080/show/4036/index.m3u8
+#EXTINF:-1 ,SONY ৮
+http://172.16.29.242:8080/show/5049/index.m3u8
+#EXTINF:-1 ,ZEE BNAGLA HD
+http://172.16.29.242:8080/show/5048/index.m3u8
+#EXTINF:-1 ,ZEE BNAGLA CENEMA
+http://172.16.29.242:8080/show/5050/index.m3u8
+#EXTINF:-1 ,STAR JOLSA HD
+http://172.16.29.242:8080/show/5053/index.m3u8
+#EXTINF:-1 ,JOLSA MOVIES HD
+http://172.16.29.242:8080/show/5054/index.m3u8
+#EXTINF:-1 ,START BANGLA TV
+http://172.16.29.242:8080/show/5006/index.m3u8
+#EXTINF:-1 ,TRAVEL XP HD
+http://172.16.29.242:8080/show/5046/index.m3u8
+#EXTINF:-1 ,SUN BANGLA
+http://172.16.29.242:8080/show/5051/index.m3u8
+#EXTINF:-1 ,BBC
+http://172.16.29.242:8080/show/5003/index.m3u8
+#EXTINF:-1 ,STAR MOVIES HD
+http://172.16.29.242:8080/show/5021/index.m3u8
+#EXTINF:-1 ,SONY PIX HD
+http://172.16.29.242:8080/show/5022/index.m3u8
+#EXTINF:-1 ,HBO HD
+http://172.16.29.242:8080/show/5005/index.m3u8
+#EXTINF:-1 ,MOVIES NOW HD
+http://172.16.29.242:8080/show/5018/index.m3u8
+#EXTINF:-1 ,STAR PLUS HD
+http://172.16.29.242:8080/show/5030/index.m3u8
+#EXTINF:-1 ,STAR GOLD HD
+http://172.16.29.242:8080/show/5028/index.m3u8
+#EXTINF:-1 ,SONY ENTERTAINMENT TV HD
+http://172.16.29.242:8080/show/5034/index.m3u8
+#EXTINF:-1 ,COLORS HD
+http://172.16.29.242:8080/show/5035/index.m3u8
+#EXTINF:-1 ,COLORS CINEPLEX HD
+http://172.16.29.242:8080/show/5037/index.m3u8
+#EXTINF:-1 ,ZEE TV HD
+http://172.16.29.242:8080/show/5031/index.m3u8
+#EXTINF:-1 ,ZEE CINEMA HD
+http://172.16.29.242:8080/show/5032/index.m3u8
+#EXTINF:-1 ,AND PICTURES HD
+http://172.16.29.242:8080/show/5039/index.m3u8
+#EXTINF:-1 ,SONY MAX HD
+http://172.16.29.242:8080/show/5029/index.m3u8
+#EXTINF:-1 ,STAR SPORTS SELECT 1 HD
+http://172.16.29.242:8080/show/5055/index.m3u8
+#EXTINF:-1 ,STAR SPORTS 1 HD
+http://172.16.29.242:8080/show/5052/index.m3u8
+#EXTINF:-1 ,STAR SPORTS 2 HD
+http://172.16.29.242:8080/show/5042/index.m3u8
+#EXTINF:-1 ,STAR SPORTS 3
+http://172.16.29.242:8080/show/5019/index.m3u8
+#EXTINF:-1 ,SONY SPORTS TEN 2 HD
+http://172.16.29.242:8080/show/5044/index.m3u8
+#EXTINF:-1 ,SONY SPORTS TEN 3
+http://172.16.29.242:8080/show/5045/index.m3u8
+#EXTINF:-1 ,STAR SPORTS SELECT 2 HD
+http://172.16.29.242:8080/show/5043/index.m3u8
+#EXTINF:-1 ,SPORT 18 HD 1
+http://172.16.29.242:8080/show/5017/index.m3u8
+#EXTINF:-1 ,NET ZIO WILD HD
+http://172.16.29.242:8080/show/5027/index.m3u8
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD 
+http://172.16.29.242:8080/show/5036/index.m3u8
+#EXTINF:-1 ,ANIMAL PLANET HD
+http://172.16.29.242:8080/show/5025/index.m3u8
+#EXTINF:-1 ,DISCOVERY HD
+http://172.16.29.242:8080/show/5026/index.m3u8
+#EXTINF:-1 ,SONY BBC EARTH HD
+http://172.16.29.242:8080/show/5038/index.m3u8
+#EXTINF:-1 ,NICK
+http://172.16.29.242:8080/show/5024/index.m3u8
+#EXTINF:-1 ,NICKOLODIAN SONIC
+http://172.16.29.242:8080/show/5041/index.m3u8
+#EXTINF:-1 ,SONY YAY
+http://172.16.29.242:8080/show/5023/index.m3u8
+#EXTINF:-1 ,PTV
+http://10.10.10.2/live/fnffeed1003/index.m3u8
+#EXTINF:-1 ,Unknown_52
+http://10.10.10.2/live/fnffeed1004/index.m3u8
+#EXTINF:-1 ,T SPORTS HD
+http://10.10.10.2/live/fnffeed1005/index.m3u8
+#EXTINF:-1 ,Unknown_54
+http://10.10.10.2/live/fnffeed1006/index.m3u8
